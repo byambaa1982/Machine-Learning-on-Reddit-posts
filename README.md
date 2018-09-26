@@ -1,7 +1,7 @@
 # Machine Learning on Reddit posts
 
 https://docs.google.com/presentation/d/12z8DkTXYmqLhKtCMKcgckLWfRpfoP5nhpWfaPOHrZAc/edit#slide=id.p
-# project_3
+# Machine Learning on Reddit posts
 https://docs.google.com/presentation/d/12z8DkTXYmqLhKtCMKcgckLWfRpfoP5nhpWfaPOHrZAc/edit#slide=id.p
 
 https://docs.google.com/document/d/1qrT5eE4TLK1bbihS6rBarojNwcUfpxCwA2TtuLNsT0A/edit#
